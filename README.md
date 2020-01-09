@@ -32,7 +32,7 @@ There is also a notebook available here to showcsae all my work related to my th
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the [post]() available
+The main findings of the code can be found at the [post](https://medium.com/@SAUDALSADAN/does-money-really-affect-performance-229cdfa22ae5?sk=50cc834176afd1511c6e64312487afcc) available
 
 
 
